@@ -47,9 +47,4 @@ The dataset used is from [Kaggle's Credit Card Fraud Detection dataset](https://
 - seaborn  
 - scikit-learn  
 
-## How to Use
 
-1. Clone the repository  
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
